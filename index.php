@@ -23,7 +23,7 @@
                         <a class="nav-link active" href="#">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Segmentos</a>
+                        <a class="nav-link" href="#segmentos">Segmentos</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Sobre nós</a>
@@ -65,79 +65,83 @@
             <span class="visually-hidden">Next</span>
         </button>
     </div>
-    
-    <div class="container mt-5">
-        <div class="row">
-            <div class="col">
-                <div class="card" style="width: 18rem;">
-                    <img src="preto.jpg" class="card-img-top" alt="...">
-                    <div class="card-body">
-                        <h5 class="card-title text-dark">Pintura Eletrostática </h5>
-                        <p class="card-text">A Gran Química Soluções Industriais possuí profissionais qualificados com anos de vivência e expertise em pintura eletrostática em pó e líquida. 
-Atuamos com o fornecimento de produtos químicos adequados para cada processo, treinamento operacional para uma pintura autogerenciável, projetos de linhas de tratamento superficial e efluentes, automação e controle de processos, consultoria técnica e ambiental.
 
- </p>
-                        
+    <section id="segmentos">
+        <div class="container mt-5">
+            <div class="row">
+                <div class="col">
+                    <div class="card" style="width: 18rem;">
+                        <img src="preto.jpg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title text-dark">Pintura Eletrostática </h5>
+                            <p class="card-text">A Gran Química Soluções Industriais possuí profissionais qualificados com anos de vivência e expertise em pintura eletrostática em pó e líquida.
+                                Atuamos com o fornecimento de produtos químicos adequados para cada processo, treinamento operacional para uma pintura autogerenciável, projetos de linhas de tratamento superficial e efluentes, automação e controle de processos, consultoria técnica e ambiental.
+
+                            </p>
+
+                        </div>
                     </div>
                 </div>
-            </div>
-            
-            <div class="col">
-                <div class="card" style="width: 18rem;">
-                    <img src="carrinho.jpg" class="card-img-top" alt="...">
-                    <div class="card-body">
-                        <h5 class="card-title text-dark">Revenda e Distribuição</h5>
-                        <p class="card-text">A Gran Química Soluções Industriais conta com o apoio de revendas e distribuidores para garantir que seus produtos se tornem mais acessíveis aos consumidores finais.
 
-Possuímos excelentes condições de fornecimento para revendas e distribuidores para garantir rentabilidade comercial e competitividade no mercado.
-Oferecemos a possubilidade do fornecimento com marca própria para fortalecimento da marca de nossos parceiros distribuidores.</p>
-                       
+                <div class="col">
+                    <div class="card" style="width: 18rem;">
+                        <img src="carrinho.jpg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title text-dark">Revenda e Distribuição</h5>
+                            <p class="card-text">A Gran Química Soluções Industriais conta com o apoio de revendas e distribuidores para garantir que seus produtos se tornem mais acessíveis aos consumidores finais.
+
+                                Possuímos excelentes condições de fornecimento para revendas e distribuidores para garantir rentabilidade comercial e competitividade no mercado.
+                                Oferecemos a possubilidade do fornecimento com marca própria para fortalecimento da marca de nossos parceiros distribuidores.</p>
+
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-            
-            <div class="container mt-5">
-        <div class="row">
-            <div class="col">
-                <div class="card" style="width: 18rem;">
-                    <img src="vermelha.jpg" class="card-img-top" alt="...">
-                    <div class="card-body">
-                        <h5 class="card-title text-dark">Industria Mecânica</h5>
-                        <p class="card-text">A Gran Química Soluções Industriais atua na indústria metal mecânica fornecendo produtos químicos sustentáveis e que proporcionam segurança aos usuários e qualidade aos processos.
 
-Nossas Soluções Englobam:
-Antirrespingos de solda para retífica de usinas;
-Desengraxantes sem cheiro e biodegradáveis com alto poder de limpeza e proteção anticorrosiva;</p>
-                        
+        <div class="container mt-5">
+            <div class="row">
+                <div class="col">
+                    <div class="card" style="width: 18rem;">
+                        <img src="vermelha.jpg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title text-dark">Industria Mecânica</h5>
+                            <p class="card-text">A Gran Química Soluções Industriais atua na indústria metal mecânica fornecendo produtos químicos sustentáveis e que proporcionam segurança aos usuários e qualidade aos processos.
+
+                                Nossas Soluções Englobam:
+                                Antirrespingos de solda para retífica de usinas;
+                                Desengraxantes sem cheiro e biodegradáveis com alto poder de limpeza e proteção anticorrosiva;</p>
+
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="col">
-                <div class="card" style="width: 18rem;">
-                    <img src="azulao.jpg" class="card-img-top" alt="...">
-                    <div class="card-body">
-                        <h5 class="card-title text-dark">Caldeiraria</h5>
-                        <p class="card-text">A Gran Química Soluções Industirais atua com a fabricação de produtos químicos de qualidade para processos de serralherias e caldeirarias.
-Nossas soluções englobam:
-Proteção anticorrosiva dos substratos durante o processamento;
-Produtividade e qualidade dos processos de corte e solda;
-Segurança dos colaboradores e do meio ambiente;
-Aumento da vida útil dos equipamentos;</p>
-                        
+                <div class="col">
+                    <div class="card" style="width: 18rem;">
+                        <img src="azulao.jpg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title text-dark">Caldeiraria</h5>
+                            <p class="card-text">A Gran Química Soluções Industirais atua com a fabricação de produtos químicos de qualidade para processos de serralherias e caldeirarias.
+                                Nossas soluções englobam:
+                                Proteção anticorrosiva dos substratos durante o processamento;
+                                Produtividade e qualidade dos processos de corte e solda;
+                                Segurança dos colaboradores e do meio ambiente;
+                                Aumento da vida útil dos equipamentos;</p>
+
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-            </div>
-            
-            
-            
-        
-    
-    
-  
+
+    </section>
+
+
+
+
+
+
+
+
     <div class="container mt-5">
         <div class="row">
             <div class="col">
