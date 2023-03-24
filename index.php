@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Concessionária</title>
+    <title>Gran Química</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
 </head>
 
@@ -38,10 +38,12 @@
             </div>
         </div>
     </nav>
+    <div body="container bg-black">
+
     <div id="carouselExample" class="carousel slide">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="" class="d-block w-100" alt="...">
+                <img src="oii.webp" class="d-block w-100" alt="...">
             </div>
             <div class="carousel-item">
                 <img src="sedanvermelho.jpg" class="d-block w-100" alt="...">
@@ -70,7 +72,7 @@
         <div class="row">
             <div class="col">
                 <div class="card" style="width: 18rem;">
-                    <img src="preto.jpg" class="card-img-top" alt="...">
+                    <img src="pintura.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title text-dark">Pintura Eletrostática </h5>
                         <p class="card-text">A Gran Química Soluções Industriais possuí profissionais qualificados com anos de vivência e expertise em pintura eletrostática em pó e líquida. 
@@ -84,7 +86,7 @@ Atuamos com o fornecimento de produtos químicos adequados para cada processo, t
             
             <div class="col">
                 <div class="card" style="width: 18rem;">
-                    <img src="carrinho.jpg" class="card-img-top" alt="...">
+                    <img src="revenda.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title text-dark">Revenda e Distribuição</h5>
                         <p class="card-text">A Gran Química Soluções Industriais conta com o apoio de revendas e distribuidores para garantir que seus produtos se tornem mais acessíveis aos consumidores finais.
@@ -102,7 +104,7 @@ Oferecemos a possubilidade do fornecimento com marca própria para fortaleciment
         <div class="row">
             <div class="col">
                 <div class="card" style="width: 18rem;">
-                    <img src="vermelha.jpg" class="card-img-top" alt="...">
+                    <img src="mecanicaa.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title text-dark">Industria Mecânica</h5>
                         <p class="card-text">A Gran Química Soluções Industriais atua na indústria metal mecânica fornecendo produtos químicos sustentáveis e que proporcionam segurança aos usuários e qualidade aos processos.
@@ -116,7 +118,7 @@ Desengraxantes sem cheiro e biodegradáveis com alto poder de limpeza e proteç�
             </div>
             <div class="col">
                 <div class="card" style="width: 18rem;">
-                    <img src="azulao.jpg" class="card-img-top" alt="...">
+                    <img src="caldeiraria.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title text-dark">Caldeiraria</h5>
                         <p class="card-text">A Gran Química Soluções Industirais atua com a fabricação de produtos químicos de qualidade para processos de serralherias e caldeirarias.
@@ -190,63 +192,49 @@ Aumento da vida útil dos equipamentos;</p>
 
 
 
-    <div class="container mt-5">
-        <div class="row">
-            <div class="col">
-                <h2 class="display-6 text-center">CONTATO</h2>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3679.328528678125!2d-47.33128268503708!3d-22.753186085090153!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c8998174c896b9%3A0x739b7f99b3323574!2sSenac%20Americana!5e0!3m2!1spt-BR!2sbr!4v1677113258211!5m2!1spt-BR!2sbr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-            </div>
-        </div>
-    </div>
-
-    </div>
-
+   
     </main>
-    <footer class="container bg-primary">
-        <div class="row">
-            <div class="col">
-                <a class="navbar-brand" href="#"><img src="icone.png" alt="" width="5%"> Dud´sCar</a>
-
-            </div>
-
-            <div class="col text-end">
-                <a href="#"> @Dud´sCar <img src="instagram.png" width="5%"></a>
-            </div>
-
-
-        </div>
-    </footer>
+</body>
     <footer class="container bg-light">
         <div class="row">
             <div class="col">
+                <a class="navbar-brand" href="#"><img src="logosite.png" alt="" width="10%"></a>
 
             </div>
-
-            <div class="col text-end">
-                <a href="#"> @Dud´sCar <img src="twitter.png" width="5%"></a>
+            <div class="container">
+                <div class= "col mt-2" >
+                   
+      <div class="icons">
+        <a target="_blank" href="https://www.instagram.com/granquimicaindustrial/"><ion-icon name="logo-instagram"></ion-icon></a>
+        <a target="_blank" href="https://www.youtube.com/results?search_query=Gran+Quimica"><ion-icon name="logo-youtube"></ion-icon></a>
+        <a target="_blank" href="https://www.linkedin.com/company/gran-qu%C3%ADmica-solu%C3%A7%C3%B5es-industriais/"><ion-icon name="logo-linkedin"></ion-icon></a>
+        
+      </div>
+                </div>
             </div>
-
-
-
         </div>
-    </footer>
-    <footer class="container bg-light">
+        </div>
+        <div class="container mt-1">
         <div class="row">
             <div class="col">
+                <h2 class="display-6 text-align"> 
+                    Onde Estamos 
+                <h2 class="display-6 text-center"> Siga-nos nas redes sociais
+            
+
 
             </div>
-
-            <div class="col text-end">
-                <a href="#"> @Dud´sCar <img src="face.png" width="5%"></a>
+            <div class="row">
+            <div class="col md-9">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3679.406128221147!2d-47.33555968540421!3d-22.750304638024748!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c89bd57b24c9bb%3A0xa76b16804d653cab!2sR.%20Dom%20B%C3%B4sco%2C%2015%20-%20Vila%20Santa%20Catarina%2C%20Americana%20-%20SP%2C%2013466-327!5e0!3m2!1spt-BR!2sbr!4v1679661428752!5m2!1spt-BR!2sbr" width="350" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
-
-
+        </div>
 
         </div>
+      
+
+      
+           
     </footer>
 
 
@@ -259,5 +247,6 @@ Aumento da vida útil dos equipamentos;</p>
     </main>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
 </body>
-
+<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 </html>
